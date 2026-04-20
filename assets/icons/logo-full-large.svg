@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" width="420" height="96">
+  <!-- Icon -->
+  <rect x="0" y="0" width="96" height="96" rx="16" ry="16" fill="#B8BB26"/>
+  <text x="48" y="66" font-family="'Fira Code', 'Fira Mono', 'Consolas', monospace" font-size="56" font-weight="700" fill="#2d2a2e" text-anchor="middle">G</text>
+  <!-- Wordmark -->
+  <text x="116" y="66" font-family="'Fira Code', 'Fira Mono', 'Consolas', monospace" font-size="56" font-weight="700" fill="#fcfcfa">grove</text>
+</svg>

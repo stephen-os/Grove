@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="400" fill="#2d2a2e"/>
+
+  <!-- Centered Icon -->
+  <rect x="100" y="100" width="200" height="200" rx="33" ry="33" fill="#B8BB26"/>
+  <text x="200" y="230" font-family="'Fira Code', 'Fira Mono', 'Consolas', monospace" font-size="120" font-weight="700" fill="#2d2a2e" text-anchor="middle">G</text>
+</svg>
